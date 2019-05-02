@@ -1,0 +1,23 @@
+.chart-series-line {
+	-fx-stroke-width: 2px;
+	-fx-effect: null;
+}
+
+/*
+.default-color0.chart-series-line {
+	-fx-stroke: blue;
+}
+
+.default-color1.chart-series-line {
+	-fx-stroke: red;
+}
+
+.default-color0.chart-line-symbol {
+	-fx-background-color: blue, white;
+}
+
+.default-color1.chart-line-symbol {
+	-fx-background-color: red, white;
+	-fx-shape: "M5,0 L10,8 L0,8 Z";
+}
+*/
